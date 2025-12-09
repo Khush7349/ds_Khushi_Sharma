@@ -25,7 +25,7 @@ Purpose: How sentiment influences trade volume & PnL
 ---
 
 ## 📂 Project Directory Structure 
-
+```text
 ds_Khushi_Sharma/
 ├── notebook_1.ipynb # Market sentiment exploratory analysis
 ├── notebook_2.ipynb # Trader behavior & PnL analysis
@@ -49,6 +49,7 @@ ds_Khushi_Sharma/
 │
 ├── ds_report.pdf # Final report with findings & business insights
 └── README.md # Project documentation
+```
 
 
 ---
