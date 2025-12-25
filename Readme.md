@@ -1,6 +1,4 @@
 # 📊 Trader Behavior & Market Sentiment Analysis  
-**Candidate:** Khushi Sharma  
-**Applied Role:** Data Scientist – Web3 Trading Team  
 
 ---
 
